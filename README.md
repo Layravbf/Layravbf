@@ -5,7 +5,7 @@
 
 - 🎓Computer science student at UFLA - MG (Brasil)
 - 🪐Seeking to learn several languages 
-- :speech_balloon: Ask me about series, animes, games, web, or literally anything!
+- :speech_balloon: Ask me about series, games, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
 <a target="_blank" href="https://www.linkedin.com/in/layravbf/">
