@@ -41,6 +41,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Layravbf&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layravbf&theme=buefy&layout=compact" />
 </a>
+<a href="https://github.com/Layravbf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Layravbf&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layravbf&theme=buefy&layout=compact" />
+</a>
 
 
 ⭐️ From [Layravbf](https://github.com/Layravbf)
