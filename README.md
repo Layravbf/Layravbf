@@ -36,7 +36,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
-</br>
 
 <a href="https://github.com/Layravbf/Layravbf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layravbf&show_icons=true&layout=compact" />
