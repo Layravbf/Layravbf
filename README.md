@@ -1,6 +1,8 @@
 ## Hi, I'm Layra,
 <img alt="GIF" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width = 200/>
+
 ---- 
+
 - 🎓Computer science student at UFLA - MG (Brasil)
 - 🪐Seeking to learn several languages 
 - :speech_balloon: Ask me about series, animes, games, web, or literally anything!
