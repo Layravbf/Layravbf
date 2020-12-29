@@ -37,10 +37,6 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 
-<a href="https://github.com/Layravbf/Layravbf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layravbf&show_icons=true&layout=compact" />
-</a>
-
 <a href="https://github.com/Layravbf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Layravbf&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layravbf&theme=buefy&layout=compact" />
