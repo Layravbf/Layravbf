@@ -43,9 +43,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layravbf&theme=buefy&layout=compact" />
 </a>
 
- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=Layravbf&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Layravbf" />
-  </a>
-
+ <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 ⭐️ From [Layravbf](https://github.com/Layravbf)
