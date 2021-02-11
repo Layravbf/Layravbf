@@ -43,5 +43,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layravbf&theme=buefy&layout=compact" />
 </a>
 
- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gdrk6m3v4lw3l7a7foayxki&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+ 
+ 
 ⭐️ From [Layravbf](https://github.com/Layravbf)
