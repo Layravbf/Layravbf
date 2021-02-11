@@ -43,10 +43,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layravbf&theme=buefy&layout=compact" />
 </a>
 
-<a href="https://github.com/Layravbf">
-  ![](https://github.com/Layravbf/github-stats/blob/master/generated/overview.svg)
-  ![](https://github.com/Layravbf/github-stats/blob/master/generated/languages.svg)
-</a>
-
+ <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=Layravbf&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Layravbf" />
+  </a>
 
 ⭐️ From [Layravbf](https://github.com/Layravbf)
