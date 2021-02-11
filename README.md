@@ -3,7 +3,7 @@
 
 ---- 
 
-- 🎓Computer science student at UFLA - MG (Brasil)
+- 🎓Computer science student at UFLA - MG (Brazil)
 - 🪐Seeking to learn several languages 
 - :speech_balloon: Ask me about series, games, web, or literally anything!
 - :mailbox: You can reach me with the links below
@@ -24,11 +24,12 @@
 </a>
 
 ----
-##### Languages that I study
+##### Languages and technologies that I study
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ##### Languages and technologies I want to learn
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
