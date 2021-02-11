@@ -43,5 +43,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layravbf&theme=buefy&layout=compact" />
 </a>
 
+<a href="https://github.com/Layravbf">
+  ![](https://github.com/Layravbf/github-stats/blob/master/generated/overview.svg)
+  ![](https://github.com/Layravbf/github-stats/blob/master/generated/languages.svg)
+</a>
+
 
 ⭐️ From [Layravbf](https://github.com/Layravbf)
