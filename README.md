@@ -2,6 +2,7 @@
 <img alt="GIF" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width = 200/>
 
 ---- 
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 - 🎓Computer science student at UFLA - MG (Brazil)
 - 🪐Seeking to learn several languages 
@@ -42,8 +43,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Layravbf&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layravbf&theme=buefy&layout=compact" />
 </a>
-
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22gdrk6m3v4lw3l7a7foayxki&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
  
  
 ⭐️ From [Layravbf](https://github.com/Layravbf)
