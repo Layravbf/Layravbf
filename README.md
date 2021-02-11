@@ -2,8 +2,6 @@
 <img alt="GIF" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width = 200/>
 
 ---- 
-https://badges.pufler.dev/visits/Layravbf
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 - 🎓Computer science student at UFLA - MG (Brazil)
 - 🪐Seeking to learn several languages 
