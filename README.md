@@ -3,6 +3,7 @@
 
 ---- 
 
+- 👩🏻‍💻Data Engineer at DP6
 - 🎓Computer science student at UFLA - MG (Brazil)
 - 🪐Seeking to learn several languages 
 - :speech_balloon: Ask me about series, games, web, or literally anything!
@@ -15,9 +16,6 @@
 </a>
 <a target="_blank" href="https://fb.com/layra.vilasboasferreira">
   <img align="left" alt="Facebook" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://open.spotify.com/user/22gdrk6m3v4lw3l7a7foayxki?si=onxZF1_NSimbPCY-PtNh1Q" target="_blank">
-  <img align="left" alt="Spotify" width="18px" src="https://image.flaticon.com/icons/svg/49/49097.svg" />
 </a>
 <a target="_blank" href="mailto:layravilas@hotmail.com">
   <img align="left" alt="E-mail" width="18px" src="https://image.flaticon.com/icons/png/512/8/8807.png" />
