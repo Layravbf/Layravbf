@@ -5,7 +5,7 @@
 
 - 👩🏻‍💻Data Engineer at DP6
 - 🎓Computer science student at UFLA - MG (Brazil)
-- 🪐Seeking to to collaborate on Data Analytics and Data Science Projects 
+- 🪐Seeking to collaborate on Data Analytics and Data Science Projects 
 - :speech_balloon: Ask me about series, games, web, or literally anything!
 - 📕 Interesse acadêmico em engenharia de dados, inteligência artificial e infraestruturas Cloud
 
