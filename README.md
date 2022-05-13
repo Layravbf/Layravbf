@@ -7,7 +7,7 @@
 - 🎓Computer science student at UFLA - MG (Brazil)
 - 🪐Seeking to collaborate on Data Analytics and Data Science Projects 
 - :speech_balloon: Ask me about series, games, web, or literally anything!
-- 📕 Interesse acadêmico em engenharia de dados, inteligência artificial e infraestruturas Cloud
+- 📕 Academic interest in data engineering, artificial intelligence and cloud infrastructures
 
 ----
 
