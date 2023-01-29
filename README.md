@@ -1,5 +1,5 @@
 ## Hi, I'm Layra,
-<img alt="GIF" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width = 200/>
+<img alt="GIF" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width = 100/>
 
 ---- 
 
